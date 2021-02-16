@@ -1,2 +1,2 @@
 # geolocal
-Archivos de el informe de algoritmos de ordenamiento
+Archivos del informe de algoritmos de ordenamiento
